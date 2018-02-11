@@ -13,8 +13,8 @@
     "express": "*",
     "express-validator": "*",
     "express-handlebars": "*",
-    "connect-flash":"*",
-    "express-session":"*",
+    "connect-flash": "*",
+    "express-session": "*",
     "moment": "*",
     "multer": "*",
     "mysql": "*"
